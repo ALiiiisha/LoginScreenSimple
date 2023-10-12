@@ -1,0 +1,82 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+}
+.mein-container {
+  margin: 400px;
+  border: 1px solid black;
+  background-color: #242323;
+}
+h1 {
+  margin-top: 100px;
+  font-size: 18px;
+  color: white;
+  margin-left: 150px;
+  font-weight: 200;
+}
+.sign-in {
+  margin-top: 10px;
+  color: #cbc5c5;
+  margin-left: 130px;
+  font-size: 12px;
+}
+.name {
+  background-color: #3f3e3e;
+  color: #cbc5c5;
+  width: 400px;
+  height: 70px;
+  margin-top: 80px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 30px;
+}
+.user {
+  margin-left: 30px;
+  margin-top: 150px;
+  padding-top: 20px;
+}
+.password {
+  background-color: #3f3e3e;
+  color: #cbc5c5;
+  width: 400px;
+  height: 70px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 30px;
+  padding-top: 20px;
+}
+.pass {
+  margin-left: 30px;
+}
+.Forget {
+  color: #cbc5c5;
+  margin-left: 300px;
+  font-size: 10px;
+  margin-top: 10px;
+}
+.sign-in-container {
+  background-color: #5151bc;
+  color: white;
+  width: 400px;
+  height: 70px;
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 30px;
+  padding-top: 20px;
+}
+.signin {
+  margin-left: 30px;
+}
+.question {
+  color: #cbc5c5;
+  margin-top: 20px;
+  margin-left: 150px;
+  font-size: 12px;
+  margin-bottom: 50px;
+}
